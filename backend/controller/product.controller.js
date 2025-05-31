@@ -18,7 +18,7 @@ export const getProduct = async (request, response) => {
 };
 
 export const createProduct = async (request, response) => {
-	const product = await request.body;
+	const product = request.body;
 	// Here you would typically save the product to the database
 
 	if (
@@ -36,7 +36,7 @@ export const createProduct = async (request, response) => {
 
 	const newProduct = new Product(product);
 	try {
-		newProduct.save();
+		await newProduct.save();
 		response.status(201).json({
 			success: true,
 			message: "Product created successfully",

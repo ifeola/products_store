@@ -1,0 +1,122 @@
+[
+	{
+		"productName": "Wireless Noise-Cancelling Headphones",
+		"productDescription": "Immerse yourself in pure sound with these premium wireless headphones. Features active noise-cancellation, long battery life, and comfortable earcups.",
+		"productImageURL": "https://example.com/images/headphones_noise_cancelling.jpg",
+		"productPrice": 199.99,
+		"productStockQuantity": 150,
+		"productCategory": "Electronics"
+	},
+	{
+		"productName": "Organic Cotton T-Shirt",
+		"productDescription": "A comfortable and stylish t-shirt made from 100% certified organic cotton. Soft, breathable, and eco-friendly.",
+		"productImageURL": "https://example.com/images/organic_tshirt_unisex.jpg",
+		"productPrice": 29.95,
+		"productStockQuantity": 300,
+		"productCategory": "Apparel"
+	},
+	{
+		"productName": "Smart LED Light Bulb",
+		"productDescription": "Control your lighting with your voice or smartphone. Dimmable, color-changing (RGBW), and energy-efficient. Compatible with Alexa and Google Home.",
+		"productImageURL": "https://example.com/images/smart_led_bulb.jpg",
+		"productPrice": 15.5,
+		"productStockQuantity": 500,
+		"productCategory": "Home Goods"
+	},
+	{
+		"productName": "The Midnight Library - Novel",
+		"productDescription": "A captivating novel by Matt Haig about choices, regrets, and the infinite possibilities that make up a life. Hardcover edition.",
+		"productImageURL": "https://example.com/images/midnight_library_book.jpg",
+		"productPrice": 12.99,
+		"productStockQuantity": 220,
+		"productCategory": "Books"
+	},
+	{
+		"productName": "Eco-Friendly Yoga Mat",
+		"productDescription": "High-density, non-slip yoga mat made from sustainable TPE material. Provides excellent cushioning and support for all types of yoga and exercise.",
+		"productImageURL": "https://example.com/images/yoga_mat_eco.jpg",
+		"productPrice": 39.99,
+		"productStockQuantity": 120,
+		"productCategory": "Sports & Outdoors"
+	},
+	{
+		"productName": "Portable Bluetooth Speaker",
+		"productDescription": "Compact and powerful Bluetooth speaker with rich sound, deep bass, and long-lasting battery. Water-resistant design for outdoor use.",
+		"productImageURL": "https://example.com/images/bluetooth_speaker_portable.jpg",
+		"productPrice": 49.95,
+		"productStockQuantity": 250,
+		"productCategory": "Electronics"
+	},
+	{
+		"productName": "Stainless Steel Water Bottle",
+		"productDescription": "Double-walled insulated water bottle that keeps drinks cold for 24 hours or hot for 12 hours. 750ml capacity, BPA-free.",
+		"productImageURL": "https://example.com/images/water_bottle_stainless.jpg",
+		"productPrice": 22.0,
+		"productStockQuantity": 400,
+		"productCategory": "Home Goods"
+	},
+	{
+		"productName": "Men's Running Shoes",
+		"productDescription": "Lightweight and breathable running shoes designed for comfort and performance. Features excellent shock absorption and durable outsole.",
+		"productImageURL": "https://example.com/images/running_shoes_men.jpg",
+		"productPrice": 89.0,
+		"productStockQuantity": 180,
+		"productCategory": "Apparel"
+	},
+	{
+		"productName": "Aroma Therapy Diffuser",
+		"productDescription": "Ultrasonic essential oil diffuser with multiple mist modes and 7 LED color light options. Promotes relaxation and improves air quality.",
+		"productImageURL": "https://example.com/images/aroma_diffuser.jpg",
+		"productPrice": 29.75,
+		"productStockQuantity": 350,
+		"productCategory": "Home Goods"
+	},
+	{
+		"productName": "Sapiens: A Brief History of Humankind",
+		"productDescription": "A thought-provoking exploration of human history from the Stone Age to the present day. By Yuval Noah Harari. Paperback edition.",
+		"productImageURL": "https://example.com/images/sapiens_book.jpg",
+		"productPrice": 18.5,
+		"productStockQuantity": 150,
+		"productCategory": "Books"
+	},
+	{
+		"productName": "Adjustable Dumbbell Set",
+		"productDescription": "Space-saving adjustable dumbbells, perfect for home workouts. Easily change weights from 5 lbs to 52.5 lbs with a simple dial system.",
+		"productImageURL": "https://example.com/images/adjustable_dumbbells.jpg",
+		"productPrice": 249.99,
+		"productStockQuantity": 75,
+		"productCategory": "Sports & Outdoors"
+	},
+	{
+		"productName": "4K Ultra HD Smart TV - 55 Inch",
+		"productDescription": "Stunning 4K Ultra HD picture quality with HDR support. Smart TV features allow access to your favorite streaming apps. Slim design.",
+		"productImageURL": "https://example.com/images/smart_tv_55inch.jpg",
+		"productPrice": 499.0,
+		"productStockQuantity": 90,
+		"productCategory": "Electronics"
+	},
+	{
+		"productName": "Women's Winter Parka",
+		"productDescription": "Warm and stylish winter parka with faux fur hood. Waterproof and windproof outer shell, insulated lining for extreme cold.",
+		"productImageURL": "https://example.com/images/winter_parka_women.jpg",
+		"productPrice": 129.5,
+		"productStockQuantity": 110,
+		"productCategory": "Apparel"
+	},
+	{
+		"productName": "Espresso Coffee Machine",
+		"productDescription": "Semi-automatic espresso machine with milk frother. Brew rich, aromatic espresso and create lattes or cappuccinos at home. 15-bar pressure.",
+		"productImageURL": "https://example.com/images/espresso_machine.jpg",
+		"productPrice": 179.99,
+		"productStockQuantity": 130,
+		"productCategory": "Home Goods"
+	},
+	{
+		"productName": "Resistance Band Set (5-Piece)",
+		"productDescription": "Set of 5 durable latex resistance bands with varying levels of tension. Ideal for strength training, yoga, pilates, and physical therapy.",
+		"productImageURL": "https://example.com/images/resistance_bands_set.jpg",
+		"productPrice": 19.99,
+		"productStockQuantity": 600,
+		"productCategory": "Sports & Outdoors"
+	}
+]
